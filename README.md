@@ -1,4 +1,3 @@
-#tugba_altun
 <h1 align="center">Hi 👋, I'm Tugba</h1>
 <h3 align="center">A Software Developer from Ankara/Turkey</h3>
 

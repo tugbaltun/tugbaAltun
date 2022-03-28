@@ -22,5 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tugbaltun&show_icons=true&locale=en&layout=compact" alt="tugbaltun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tugbaltun&show_icons=true&locale=en" alt="tugbaltun" /></p>
-![image](https://user-images.githubusercontent.com/36510900/160455543-2aae86f2-75cb-4b4e-935b-0a7556b75381.png)
 

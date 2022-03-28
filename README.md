@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tugbaltun.12@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/-tugba-altun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-tugba-altun" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tugbal_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tugbal_12" height="30" width="40" /></a>

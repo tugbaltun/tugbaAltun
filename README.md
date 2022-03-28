@@ -1,7 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tugbaltun&label=Profile%20views&color=0e75b6&style=flat" alt="tugbaltun" /> </p>
 <h1 align="center">Hi 👋, I'm Tugba</h1>
-<h3 align="center">A Software Developer from Ankara/Turkey</h3>
+<h3 align="center"> A Software Developer from Ankara/Turkey</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tugbaltun&label=Profile%20views&color=0e75b6&style=flat" alt="tugbaltun" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tugbaltun" alt="tugbaltun" /></a> </p>
 
@@ -10,7 +11,7 @@
 - 📫 How to reach me **tugbaltun.12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/-tugba-altun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-tugba-altun" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tugbal_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tugbal_12" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Gsvb6Auy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Gsvb6Auy" height="30" width="40" /></a>
